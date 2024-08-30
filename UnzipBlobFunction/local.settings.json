@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureStorageConnectionString": "<your_storage_connection_string>",
+    "ContainerName": "<your_container_name>",
+    "SourceFolder": "<your_source_folder>",
+    "DestinationFolder": "<your_destination_folder>"
+  }
+}
